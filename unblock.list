@@ -20,3 +20,4 @@ DOMAIN,setup.workos.com
 DOMAIN,workos.imgix.net
 DOMAIN-SUFFIX,banggood.com
 DOMAIN,ru.monitorcomp.org
+IP-CIDR,157.22.252.109/32
